@@ -1,526 +1,1245 @@
 {
-  "last_updated": "2025-06-28T20:21:00Z",
+  "last_updated": "2025-06-29",
   "niches": {
-	"Art": [
-  	{
-    	"hashtag": "#art",
-    	"posts": 1200000000,
-    	"category": "broad",
-    	"trending_score": 92
-  	},
-  	{
-    	"hashtag": "#artistsoninstagram",
-    	"posts": 195000000,
-    	"category": "community",
-    	"trending_score": 95
-  	},
-  	{
-    	"hashtag": "#digitalart",
-    	"posts": 150000000,
-    	"category": "specific",
-    	"trending_score": 94
-  	},
-  	{
-    	"hashtag": "#painting",
-    	"posts": 280000000,
-    	"category": "specific",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#artoftheday",
-    	"posts": 95000000,
-    	"category": "community",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#illustration",
-    	"posts": 210000000,
-    	"category": "specific",
-    	"trending_score": 89
-  	}
-	],
-	"Beauty": [
-  	{
-    	"hashtag": "#beauty",
-    	"posts": 550000000,
-    	"category": "broad",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#makeup",
-    	"posts": 480000000,
-    	"category": "specific",
-    	"trending_score": 93
-  	},
-  	{
-    	"hashtag": "#skincare",
-    	"posts": 130000000,
-    	"category": "specific",
-    	"trending_score": 96
-  	},
-  	{
-    	"hashtag": "#makeuptutorial",
-    	"posts": 45000000,
-    	"category": "specific",
-    	"trending_score": 85
-  	},
-  	{
-    	"hashtag": "#beautyblogger",
-    	"posts": 35000000,
-    	"category": "community",
-    	"trending_score": 88
-  	}
-	],
-	"Business": [
-  	{
-    	"hashtag": "#business",
-    	"posts": 110000000,
-    	"category": "broad",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#entrepreneur",
-    	"posts": 95000000,
-    	"category": "community",
-    	"trending_score": 94
-  	},
-  	{
-    	"hashtag": "#smallbusiness",
-    	"posts": 88000000,
-    	"category": "community",
-    	"trending_score": 96
-  	},
-  	{
-    	"hashtag": "#marketing",
-    	"posts": 75000000,
-    	"category": "specific",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#success",
-    	"posts": 210000000,
-    	"category": "broad",
-    	"trending_score": 87
-  	}
-	],
-	"DIY": [
-  	{
-    	"hashtag": "#diy",
-    	"posts": 115000000,
-    	"category": "broad",
-    	"trending_score": 93
-  	},
-  	{
-    	"hashtag": "#doityourself",
-    	"posts": 45000000,
-    	"category": "broad",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#crafts",
-    	"posts": 55000000,
-    	"category": "specific",
-    	"trending_score": 89
-  	},
-  	{
-    	"hashtag": "#diyprojects",
-    	"posts": 20000000,
-    	"category": "specific",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#handmade",
-    	"posts": 180000000,
-    	"category": "community",
-    	"trending_score": 90
-  	}
-	],
-	"Fashion": [
-  	{
-    	"hashtag": "#fashion",
-    	"posts": 1100000000,
-    	"category": "broad",
-    	"trending_score": 94
-  	},
-  	{
-    	"hashtag": "#style",
-    	"posts": 750000000,
-    	"category": "broad",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#ootd",
-    	"posts": 420000000,
-    	"category": "community",
-    	"trending_score": 96
-  	},
-  	{
-    	"hashtag": "#fashionblogger",
-    	"posts": 145000000,
-    	"category": "community",
-    	"trending_score": 89
-  	},
-  	{
-    	"hashtag": "#streetstyle",
-    	"posts": 110000000,
-    	"category": "specific",
-    	"trending_score": 92
-  	}
-	],
-	"Fitness": [
-  	{
-    	"hashtag": "#fitness",
-    	"posts": 530000000,
-    	"category": "broad",
-    	"trending_score": 94
-  	},
-  	{
-    	"hashtag": "#gym",
-    	"posts": 250000000,
-    	"category": "specific",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#workout",
-    	"posts": 190000000,
-    	"category": "specific",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#fitlife",
-    	"posts": 60000000,
-    	"category": "community",
-    	"trending_score": 87
-  	},
-  	{
-    	"hashtag": "#healthylifestyle",
-    	"posts": 98000000,
-    	"category": "broad",
-    	"trending_score": 90
-  	}
-	],
-	"Food": [
-  	{
-    	"hashtag": "#food",
-    	"posts": 525000000,
-    	"category": "broad",
-    	"trending_score": 92
-  	},
-  	{
-    	"hashtag": "#foodie",
-    	"posts": 220000000,
-    	"category": "community",
-    	"trending_score": 95
-  	},
-  	{
-    	"hashtag": "#instafood",
-    	"posts": 200000000,
-    	"category": "community",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#recipe",
-    	"posts": 50000000,
-    	"category": "specific",
-    	"trending_score": 93
-  	},
-  	{
-    	"hashtag": "#healthyfood",
-    	"posts": 110000000,
-    	"category": "specific",
-    	"trending_score": 89
-  	}
-	],
-	"Gaming": [
-  	{
-    	"hashtag": "#gaming",
-    	"posts": 120000000,
-    	"category": "broad",
-    	"trending_score": 94
-  	},
-  	{
-    	"hashtag": "#gamer",
-    	"posts": 90000000,
-    	"category": "community",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#pcgaming",
-    	"posts": 25000000,
-    	"category": "specific",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#videogames",
-    	"posts": 65000000,
-    	"category": "broad",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#gamingsetup",
-    	"posts": 10000000,
-    	"category": "specific",
-    	"trending_score": 95
-  	}
-	],
-	"Home Decor": [
-  	{
-    	"hashtag": "#homedecor",
-    	"posts": 125000000,
-    	"category": "broad",
-    	"trending_score": 93
-  	},
-  	{
-    	"hashtag": "#interiordesign",
-    	"posts": 155000000,
-    	"category": "broad",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#homesweethome",
-    	"posts": 90000000,
-    	"category": "community",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#decor",
-    	"posts": 70000000,
-    	"category": "specific",
-    	"trending_score": 85
-  	},
-  	{
-    	"hashtag": "#interiorstyling",
-    	"posts": 35000000,
-    	"category": "specific",
-    	"trending_score": 90
-  	}
-	],
-	"Music": [
-  	{
-    	"hashtag": "#music",
-    	"posts": 850000000,
-    	"category": "broad",
-    	"trending_score": 92
-  	},
-  	{
-    	"hashtag": "#musician",
-    	"posts": 110000000,
-    	"category": "community",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#newmusic",
-    	"posts": 60000000,
-    	"category": "specific",
-    	"trending_score": 95
-  	},
-  	{
-    	"hashtag": "#singer",
-    	"posts": 130000000,
-    	"category": "community",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#producer",
-    	"posts": 45000000,
-    	"category": "specific",
-    	"trending_score": 89
-  	}
-	],
-	"Pets": [
-  	{
-    	"hashtag": "#pets",
-    	"posts": 160000000,
-    	"category": "broad",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#dogsofinstagram",
-    	"posts": 310000000,
-    	"category": "community",
-    	"trending_score": 96
-  	},
-  	{
-    	"hashtag": "#catsofinstagram",
-    	"posts": 230000000,
-    	"category": "community",
-    	"trending_score": 95
-  	},
-  	{
-    	"hashtag": "#petsofinstagram",
-    	"posts": 105000000,
-    	"category": "community",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#doglife",
-    	"posts": 55000000,
-    	"category": "specific",
-    	"trending_score": 89
-  	}
-	],
-	"Photography": [
-  	{
-    	"hashtag": "#photography",
-    	"posts": 990000000,
-    	"category": "broad",
-    	"trending_score": 93
-  	},
-  	{
-    	"hashtag": "#photographer",
-    	"posts": 200000000,
-    	"category": "community",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#photooftheday",
-    	"posts": 1100000000,
-    	"category": "community",
-    	"trending_score": 95
-  	},
-  	{
-    	"hashtag": "#naturephotography",
-    	"posts": 160000000,
-    	"category": "specific",
-    	"trending_score": 92
-  	},
-  	{
-    	"hashtag": "#streetphotography",
-    	"posts": 95000000,
-    	"category": "specific",
-    	"trending_score": 91
-  	}
-	],
-	"Sustainability": [
-  	{
-    	"hashtag": "#sustainability",
-    	"posts": 25000000,
-    	"category": "broad",
-    	"trending_score": 94
-  	},
-  	{
-    	"hashtag": "#ecofriendly",
-    	"posts": 15000000,
-    	"category": "specific",
-    	"trending_score": 92
-  	},
-  	{
-    	"hashtag": "#sustainableliving",
-    	"posts": 10000000,
-    	"category": "community",
-    	"trending_score": 91
-  	},
-  	{
-    	"hashtag": "#zerowaste",
-    	"posts": 12000000,
-    	"category": "specific",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#gogreen",
-    	"posts": 8000000,
-    	"category": "broad",
-    	"trending_score": 85
-  	}
-	],
-	"Tech": [
-  	{
-    	"hashtag": "#technology",
-    	"posts": 95000000,
-    	"category": "broad",
-    	"trending_score": 90
-  	},
-  	{
-    	"hashtag": "#ai",
-    	"posts": 15000000,
-    	"category": "specific",
-    	"trending_score": 99
-  	},
-  	{
-    	"hashtag": "#programming",
-    	"posts": 25000000,
-    	"category": "community",
-    	"trending_score": 85
-  	},
-  	{
-    	"hashtag": "#softwareengineer",
-    	"posts": 5000000,
-    	"category": "community",
-    	"trending_score": 89
-  	},
-  	{
-    	"hashtag": "#gadgets",
-    	"posts": 12000000,
-    	"category": "specific",
-    	"trending_score": 82
-  	}
-	],
-	"Travel": [
-  	{
-    	"hashtag": "#travel",
-    	"posts": 686000000,
-    	"category": "broad",
-    	"trending_score": 95
-  	},
-  	{
-    	"hashtag": "#wanderlust",
-    	"posts": 145000000,
-    	"category": "community",
-    	"trending_score": 88
-  	},
-  	{
-    	"hashtag": "#travelblogger",
-    	"posts": 78000000,
-    	"category": "community",
-    	"trending_score": 92
-  	},
-  	{
-    	"hashtag": "#traveltheworld",
-    	"posts": 45000000,
-    	"category": "specific",
-    	"trending_score": 85
-  	},
-  	{
-    	"hashtag": "#instatravel",
-    	"posts": 130000000,
-    	"category": "broad",
-    	"trending_score": 89
-  	}
-	]
-  },
-  "keyword_map": {
-	"painting": "Art",
-	"drawing": "Art",
-	"sketch": "Art",
-	"makeup": "Beauty",
-	"skincare": "Beauty",
-	"startup": "Business",
-	"entrepreneurship": "Business",
-	"crafting": "DIY",
-	"handmade": "DIY",
-	"style": "Fashion",
-	"ootd": "Fashion",
-	"exercise": "Fitness",
-	"gymlife": "Fitness",
-	"recipe": "Food",
-	"cooking": "Food",
-	"playstation": "Gaming",
-	"xbox": "Gaming",
-	"interior": "Home Decor",
-	"decoration": "Home Decor",
-	"singer": "Music",
-	"producer": "Music",
-	"dog": "Pets",
-	"cat": "Pets",
-	"camera": "Photography",
-	"photo": "Photography",
-	"ecofriendly": "Sustainability",
-	"green": "Sustainability",
-	"coding": "Tech",
-	"gadget": "Tech",
-	"artificial intelligence": "Tech",
-	"adventure": "Travel",
-	"vacation": "Travel",
-	"holiday": "Travel"
+    "Health & Wellness": [
+      {
+        "hashtag": "#wellnessjourney",
+        "posts": 15200000,
+        "trending_score": 95,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#mindfulmovement",
+        "posts": 2800000,
+        "trending_score": 92,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#selfcareday",
+        "posts": 18900000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#fitnessmotivation",
+        "posts": 125000000,
+        "trending_score": 88,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#healthyhabits",
+        "posts": 22300000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#mentalhealthawareness",
+        "posts": 35600000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#corporatewellness",
+        "posts": 1200000,
+        "trending_score": 80,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#holistichealth",
+        "posts": 19800000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#workoutroutine",
+        "posts": 10500000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#cleaneating",
+        "posts": 65400000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "Fashion & Beauty": [
+      {
+        "hashtag": "#grwm",
+        "posts": 28500000,
+        "trending_score": 98,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#streetstyle",
+        "posts": 110000000,
+        "trending_score": 94,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#skincareroutine",
+        "posts": 39800000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#outfitinspo",
+        "posts": 75200000,
+        "trending_score": 90,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#beautyhacks",
+        "posts": 12300000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#fashiontiktok",
+        "posts": 15400000,
+        "trending_score": 85,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#thrifthaul",
+        "posts": 5600000,
+        "trending_score": 82,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#nailart",
+        "posts": 102000000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#makeuptutorial",
+        "posts": 98700000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#ootd",
+        "posts": 450000000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "Food & Cooking": [
+      {
+        "hashtag": "#easyrecipes",
+        "posts": 25600000,
+        "trending_score": 96,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#foodie",
+        "posts": 234000000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#homecooking",
+        "posts": 78900000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#whatieatinaday",
+        "posts": 12800000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#mealprep",
+        "posts": 21500000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#bakinglove",
+        "posts": 15400000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#veganrecipes",
+        "posts": 45600000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#foodblogger",
+        "posts": 105000000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#cheflife",
+        "posts": 45200000,
+        "trending_score": 72,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#foodporn",
+        "posts": 298000000,
+        "trending_score": 65,
+        "velocity": "Declining"
+      }
+    ],
+    "Travel": [
+      {
+        "hashtag": "#travelreels",
+        "posts": 10200000,
+        "trending_score": 97,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#beautifuldestinations",
+        "posts": 185000000,
+        "trending_score": 94,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#solotravel",
+        "posts": 19800000,
+        "trending_score": 91,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#digitalnomad",
+        "posts": 11300000,
+        "trending_score": 89,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#adventuretravel",
+        "posts": 15600000,
+        "trending_score": 86,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#staycation",
+        "posts": 8900000,
+        "trending_score": 83,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#travelblogger",
+        "posts": 88400000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#luxurytravel",
+        "posts": 25700000,
+        "trending_score": 77,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#travelgram",
+        "posts": 195000000,
+        "trending_score": 72,
+        "velocity": "Declining"
+      },
+      {
+        "hashtag": "#wanderlust",
+        "posts": 178000000,
+        "trending_score": 68,
+        "velocity": "Declining"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "hashtag": "#aesthetic",
+        "posts": 150000000,
+        "trending_score": 95,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#dailyvlog",
+        "posts": 14200000,
+        "trending_score": 93,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#homedecor",
+        "posts": 112000000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#productiveroutine",
+        "posts": 3400000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#minimalism",
+        "posts": 34500000,
+        "trending_score": 84,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#cottagecore",
+        "posts": 4300000,
+        "trending_score": 81,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#morningroutine",
+        "posts": 22100000,
+        "trending_score": 79,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#organization",
+        "posts": 18900000,
+        "trending_score": 76,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#thatgirl",
+        "posts": 9800000,
+        "trending_score": 73,
+        "velocity": "Declining"
+      },
+      {
+        "hashtag": "#instagood",
+        "posts": 1500000000,
+        "trending_score": 60,
+        "velocity": "Declining"
+      }
+    ],
+    "Business & Entrepreneurship": [
+      {
+        "hashtag": "#entrepreneurship",
+        "posts": 95400000,
+        "trending_score": 96,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#smallbusinessowner",
+        "posts": 45200000,
+        "trending_score": 93,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#womeninbusiness",
+        "posts": 33100000,
+        "trending_score": 91,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#startup",
+        "posts": 28700000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#sidehustle",
+        "posts": 9800000,
+        "trending_score": 86,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#passiveincome",
+        "posts": 8700000,
+        "trending_score": 84,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#ceomindset",
+        "posts": 5400000,
+        "trending_score": 81,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#businesscoach",
+        "posts": 10200000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#marketingtips",
+        "posts": 12300000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#success",
+        "posts": 350000000,
+        "trending_score": 65,
+        "velocity": "Declining"
+      }
+    ],
+    "Personal Finance": [
+      {
+        "hashtag": "#personalfinance",
+        "posts": 15400000,
+        "trending_score": 97,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#investing",
+        "posts": 10200000,
+        "trending_score": 94,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#financialfreedom",
+        "posts": 18700000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#budgeting",
+        "posts": 7800000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#moneytips",
+        "posts": 5400000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#debtfreejourney",
+        "posts": 6300000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#stockmarket",
+        "posts": 12100000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#crypto",
+        "posts": 25600000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#realestateinvesting",
+        "posts": 8900000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#makemoneyonline",
+        "posts": 22300000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "Gaming": [
+      {
+        "hashtag": "#gamingcommunity",
+        "posts": 35400000,
+        "trending_score": 95,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#esports",
+        "posts": 22100000,
+        "trending_score": 92,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#gamer",
+        "posts": 150000000,
+        "trending_score": 90,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#indiegame",
+        "posts": 5600000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#pcgaming",
+        "posts": 35200000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#twitchstreamer",
+        "posts": 28900000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#consolegaming",
+        "posts": 7800000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#gamingmemes",
+        "posts": 9800000,
+        "trending_score": 77,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#retrogaming",
+        "posts": 6500000,
+        "trending_score": 74,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#fortnite",
+        "posts": 95400000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "DIY & Home Improvement": [
+      {
+        "hashtag": "#diyprojects",
+        "posts": 22100000,
+        "trending_score": 96,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#homeimprovement",
+        "posts": 15600000,
+        "trending_score": 93,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#homerenovation",
+        "posts": 12300000,
+        "trending_score": 91,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#beforeandafter",
+        "posts": 25400000,
+        "trending_score": 89,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#diyhomedecor",
+        "posts": 10200000,
+        "trending_score": 87,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#upcycling",
+        "posts": 5400000,
+        "trending_score": 85,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#woodworking",
+        "posts": 18700000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#crafty",
+        "posts": 15600000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#fixerupper",
+        "posts": 9800000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#doityourself",
+        "posts": 35400000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "Education & Edutainment": [
+      {
+        "hashtag": "#edutainment",
+        "posts": 1200000,
+        "trending_score": 98,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#learnoninstagram",
+        "posts": 5400000,
+        "trending_score": 95,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#sciencefacts",
+        "posts": 2300000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#historylovers",
+        "posts": 3100000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#skillshare",
+        "posts": 1500000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#bookstagram",
+        "posts": 98700000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#languagelearning",
+        "posts": 8700000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#mindblown",
+        "posts": 4500000,
+        "trending_score": 80,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#todayilearned",
+        "posts": 6200000,
+        "trending_score": 77,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#education",
+        "posts": 45600000,
+        "trending_score": 70,
+        "velocity": "Stable"
+      }
+    ],
+    "Pets": [
+      {
+        "hashtag": "#dogsofinstagram",
+        "posts": 345000000,
+        "trending_score": 98,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#catsofinstagram",
+        "posts": 210000000,
+        "trending_score": 97,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#petreels",
+        "posts": 5200000,
+        "trending_score": 95,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#doglife",
+        "posts": 45200000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#catlover",
+        "posts": 88700000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#adoptdontshop",
+        "posts": 35400000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#petstagram",
+        "posts": 105000000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#funnyanimals",
+        "posts": 12300000,
+        "trending_score": 82,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#weeklyfluff",
+        "posts": 9800000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#instadog",
+        "posts": 150000000,
+        "trending_score": 75,
+        "velocity": "Declining"
+      }
+    ],
+    "Parenting & Family": [
+      {
+        "hashtag": "#momlife",
+        "posts": 102000000,
+        "trending_score": 97,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#dadlife",
+        "posts": 25400000,
+        "trending_score": 95,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#familytime",
+        "posts": 110000000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#parentingtips",
+        "posts": 9800000,
+        "trending_score": 90,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#toddlerlife",
+        "posts": 28700000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#newborn",
+        "posts": 45600000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#letthembelittle",
+        "posts": 33100000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#momsofinstagram",
+        "posts": 48900000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#honestmotherhood",
+        "posts": 12300000,
+        "trending_score": 78,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#family",
+        "posts": 550000000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "Technology & Gadgets": [
+      {
+        "hashtag": "#tech",
+        "posts": 45200000,
+        "trending_score": 96,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#technology",
+        "posts": 78900000,
+        "trending_score": 94,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#gadgets",
+        "posts": 10200000,
+        "trending_score": 92,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#ai",
+        "posts": 15400000,
+        "trending_score": 90,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#smarthome",
+        "posts": 8700000,
+        "trending_score": 88,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#codinglife",
+        "posts": 9800000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#developer",
+        "posts": 12300000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#techie",
+        "posts": 18700000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#innovation",
+        "posts": 25600000,
+        "trending_score": 77,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#instatech",
+        "posts": 11200000,
+        "trending_score": 74,
+        "velocity": "Stable"
+      }
+    ],
+    "Comedy & Memes": [
+      {
+        "hashtag": "#memes",
+        "posts": 250000000,
+        "trending_score": 98,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#funnyvideos",
+        "posts": 110000000,
+        "trending_score": 96,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#comedy",
+        "posts": 185000000,
+        "trending_score": 94,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#relatable",
+        "posts": 45200000,
+        "trending_score": 92,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#humor",
+        "posts": 88700000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#lol",
+        "posts": 350000000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#dankmemes",
+        "posts": 95400000,
+        "trending_score": 80,
+        "velocity": "Declining"
+      },
+      {
+        "hashtag": "#standupcomedy",
+        "posts": 8700000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#explorepage",
+        "posts": 550000000,
+        "trending_score": 75,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#funny",
+        "posts": 650000000,
+        "trending_score": 70,
+        "velocity": "Declining"
+      }
+    ],
+    "Music & Dance": [
+      {
+        "hashtag": "#trendingaudio",
+        "posts": 8900000,
+        "trending_score": 99,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#dancechallenge",
+        "posts": 15200000,
+        "trending_score": 97,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#newmusic",
+        "posts": 65400000,
+        "trending_score": 95,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#djlife",
+        "posts": 28700000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#livemusic",
+        "posts": 35400000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#singer",
+        "posts": 95400000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#producerlife",
+        "posts": 10200000,
+        "trending_score": 85,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#hiphopdance",
+        "posts": 12300000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#musician",
+        "posts": 88700000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#music",
+        "posts": 550000000,
+        "trending_score": 70,
+        "velocity": "Stable"
+      }
+    ],
+    "Sports & eSports": [
+      {
+        "hashtag": "#sports",
+        "posts": 150000000,
+        "trending_score": 95,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#esports",
+        "posts": 22100000,
+        "trending_score": 93,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#nfl",
+        "posts": 45200000,
+        "trending_score": 91,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#nba",
+        "posts": 65400000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#athlete",
+        "posts": 35400000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#sportscenter",
+        "posts": 12300000,
+        "trending_score": 86,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#fantasyfootball",
+        "posts": 5400000,
+        "trending_score": 84,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#premierleague",
+        "posts": 33100000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#gameday",
+        "posts": 28700000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#fitness",
+        "posts": 550000000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      }
+    ],
+    "Automotive": [
+      {
+        "hashtag": "#carsofinstagram",
+        "posts": 95400000,
+        "trending_score": 96,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#carcommunity",
+        "posts": 12300000,
+        "trending_score": 94,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#supercar",
+        "posts": 35400000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#classiccar",
+        "posts": 22100000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#carporn",
+        "posts": 88700000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#ev",
+        "posts": 3400000,
+        "trending_score": 86,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#motorsport",
+        "posts": 28700000,
+        "trending_score": 84,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#carlifestyle",
+        "posts": 45200000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#automotive",
+        "posts": 33100000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#cars",
+        "posts": 250000000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      }
+    ],
+    "Real Estate & Interior Design": [
+      {
+        "hashtag": "#interiordesign",
+        "posts": 125000000,
+        "trending_score": 97,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#realestate",
+        "posts": 102000000,
+        "trending_score": 95,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#housetour",
+        "posts": 8700000,
+        "trending_score": 93,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#luxuryrealestate",
+        "posts": 25400000,
+        "trending_score": 91,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#dreamhome",
+        "posts": 33100000,
+        "trending_score": 89,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#interiorstyling",
+        "posts": 18700000,
+        "trending_score": 87,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#architecture",
+        "posts": 210000000,
+        "trending_score": 85,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#homedecor",
+        "posts": 112000000,
+        "trending_score": 83,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#realtorlife",
+        "posts": 15600000,
+        "trending_score": 81,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#designinspiration",
+        "posts": 10200000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      }
+    ],
+    "Arts & Crafts": [
+      {
+        "hashtag": "#artistsoninstagram",
+        "posts": 150000000,
+        "trending_score": 98,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#procreate",
+        "posts": 35400000,
+        "trending_score": 96,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#digitalart",
+        "posts": 95400000,
+        "trending_score": 94,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#painting",
+        "posts": 185000000,
+        "trending_score": 92,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#craft",
+        "posts": 45200000,
+        "trending_score": 90,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#sketchbook",
+        "posts": 48900000,
+        "trending_score": 88,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#pottery",
+        "posts": 12300000,
+        "trending_score": 86,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#illustration",
+        "posts": 110000000,
+        "trending_score": 84,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#handmade",
+        "posts": 125000000,
+        "trending_score": 82,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#artwork",
+        "posts": 210000000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      }
+    ],
+    "Commentary & News": [
+      {
+        "hashtag": "#currentaffairs",
+        "posts": 2100000,
+        "trending_score": 95,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#popculture",
+        "posts": 15400000,
+        "trending_score": 93,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#news",
+        "posts": 88700000,
+        "trending_score": 91,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#deepdive",
+        "posts": 1200000,
+        "trending_score": 89,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#socialcommentary",
+        "posts": 850000,
+        "trending_score": 87,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#breakingnews",
+        "posts": 18700000,
+        "trending_score": 85,
+        "velocity": "High"
+      },
+      {
+        "hashtag": "#whatstrending",
+        "posts": 3400000,
+        "trending_score": 83,
+        "velocity": "Rising"
+      },
+      {
+        "hashtag": "#politics",
+        "posts": 45200000,
+        "trending_score": 80,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#documentary",
+        "posts": 10200000,
+        "trending_score": 78,
+        "velocity": "Stable"
+      },
+      {
+        "hashtag": "#learnsomethingnew",
+        "posts": 7600000,
+        "trending_score": 75,
+        "velocity": "Stable"
+      }
+    ]
   }
 }
